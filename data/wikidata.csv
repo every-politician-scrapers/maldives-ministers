@@ -1,3 +1,21 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q55614252,Ibrahim Mohamed Solih,Ibrahim Mohamed Solih,male,1964-05-04,11,,,Q1064606,President of the Maldives,Q55614252-841371a6-4e27-cb54-7d4c-1f4bd18cab0c
-Q56752471,Faisal Naseem,Faisal Naseem,male,1973-07-20,11,,,Q10999435,Vice President of the Maldives,Q56752471-3cd635cb-43ec-5478-3dd0-660850a9bdb9
+Q108443113,Mohamed Aslam,Mohamed Aslam,male,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756178,"Minister of National Planning, Housing and Infrastructure",Q108443113-5A62D3E6-A646-419B-99E5-1DB5513E1DB4
+Q109756059,Sheikh Imran Abdulla,Sheikh Imran Abdulla,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q108872163,Minister of Home Affairs,Q109756059-4B0BB9AA-BC75-47D7-9498-6E3CE1905864
+Q109756122,Uz. Ibrahim Riffath,Ibrahim Riffath,male,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q4818661,Attorney General,Q109756122-8D38F3E4-7E1E-49A1-9001-B0F87A949E72
+Q109756246,Dr. Ibrahim Hassan,Ibrahim Hassan,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756239,Minister of Higher Education,Q109756246-E730DEBA-CEB7-4C5C-B858-6FDAF2E67650
+Q109756274,Dr. Aishath Ali,Aishath Ali,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756275,Minister of Education,Q109756274-14A6DC3C-6A6A-47F9-AA60-40B5B0BED313
+Q109756386,Yumna Maumoon,Yumna Maumoon,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756388,Minister of Arts Culture and Heritage,Q109756386-5077BEE1-4444-4320-81DD-08AD27A6EC4C
+Q109756433,Uz. Fayyaz Ismail,Fayyaz Ismail,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756435,Minister of Economic Development,Q109756433-25648032-7948-4F35-AA50-FAEBE3B1033A
+Q109756501,Aishath Mohamed Didi,Aishath Mohamed Didi,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756503,"Minister of Gender, Family and Social Services",Q109756501-8D8375A0-6BAF-434F-97C1-995B28C1A5E3
+Q109756534,Dr. Abdulla Mausoom,Abdulla Mausoom,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756537,Minister of Tourism,Q109756534-8569F033-EAFD-4CF4-A073-CAE8BEC9B1C7
+Q109756565,Ahmed Naseem,Ahmed Naseem,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756566,Minister of Health,Q109756565-C833A40E-00A5-4B76-8933-D88ED4296600
+Q109756571,Dr. Hussain Rasheed Hassan,Hussain Rasheed Hassan,,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756572,"Minister of Fisheries, Marine Resources and Agriculture",Q109756571-6BFE7538-1F22-4919-AA16-CACA715F1D28
+Q16146747,Ahmed Mahloof,Ahmed Mahloof,male,1980-03-26,11,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756480,"Minister of Youth, Sports and Community Empowerment",Q16146747-BFA63A6C-F413-4224-8990-3F1C90D70387
+Q16156922,Dr. Ahmed Zahir,Ahmed Zahir,male,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756033,Minister Islamic Affairs,Q16156922-D6FBB33E-251D-433F-8820-C7A8B6D3E020
+Q17517052,Uza. Mariya Ahmed Didi,Mariya Ahmed Didi,female,1963-01-01,9,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q108872206,Minister of Defense,Q17517052-63AB7062-24BE-48B7-B782-1AD729D1857B
+Q4665893,Abdulla Shahid,Abdulla Shahid,male,1962-05-26,11,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q19901419,Minister of Foreign Affairs,Q4665893-1E6E65CD-C8E5-45A4-83DF-D08F7FE74B6D
+Q55614252,Ibrahim Mohamed Solih,Ibrahim Mohamed Solih,male,1964-05-04,11,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q1064606,President,Q55614252-841371a6-4e27-cb54-7d4c-1f4bd18cab0c
+Q56752471,Faisal Naseem,Faisal Naseem,male,1973-07-20,11,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q10999435,Vice President,Q56752471-3cd635cb-43ec-5478-3dd0-660850a9bdb9
+Q57313656,Aishath Nahula,Aishath Nahula,female,1982-03-12,11,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756278,Minister of Transport and Civil Aviation,Q57313656-DE24099D-EBF4-4EC6-A1DA-2FC4F9B8E7D9
+Q59660221,Aminath Shauna,Shauna Aminath,female,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q109756575,"Minister of Environment, Climate Change and Technology",Q59660221-9FCAE54D-ACF1-4CCC-9003-A6FD512648F8
+Q89875889,Ibrahim Ameer,Ibrahim Ameer,male,,,https://presidency.gov.mv/Government/Cabinet/16,2021-11-26,Q108872117,Minister of Finance,Q89875889-971AEFCC-A09E-42BC-B1F0-E457D81FD609

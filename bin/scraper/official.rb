@@ -7,7 +7,7 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.highlighted-text').text.tidy
+      noko.css('.highlighted-text,.link-text').text.tidy
     end
 
     def position
@@ -17,7 +17,7 @@ class MemberList
 
   class Members
     def member_container
-      noko.css('.card-body')
+      noko.css('.card-body,.text-center')
     end
   end
 end
