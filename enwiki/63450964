@@ -1,0 +1,157 @@
+{
+  "title": "Ibrahim Ameer",
+  "pageID": 63450964,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Finance ministers of the Maldives"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ibrahim Ameer is a Maldivian politician.",
+              "links": [
+                {
+                  "text": "Maldivian",
+                  "type": "internal",
+                  "page": "Maldivians"
+                }
+              ]
+            },
+            {
+              "text": "He is the current finance minister of the Maldives."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Maldives politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2012",
+          "template": "use british english"
+        },
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ibrahim Ameer"
+          },
+          "image": {
+            "text": "IBRAHIMAMEER.png"
+          },
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Maldives)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ibrahim Mohamed Solih",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Mohamed Solih"
+              }
+            ]
+          },
+          "party": {
+            "text": "Maldivian Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maldivian Democratic Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Nebraska at Omaha",
+            "links": [
+              {
+                "text": " University of Nebraska at Omaha",
+                "type": "internal",
+                "page": " University of Nebraska at Omaha"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://mdp.org.mv/archives/elected-officials/ibrahim-ameer",
+          "title": "Ibrahim Ameer – Maldivian Democratic Party",
+          "language": "en-US",
+          "access-date": "2020-03-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://edition.mv/ibrahim_ameer_minister_of_finance",
+          "title": "Ibrahim Ameer, Minister of Finance",
+          "website": "The Edition",
+          "language": "en",
+          "access-date": "2020-03-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.finance.gov.mv/media/news/minister-of-finance-ibrahim-ameer-at-world-bank-imf-spring-meetings-2019",
+          "title": "Minister of Finance Ibrahim Ameer at World Bank / IMF Spring Meetings 2019",
+          "website": "Ministry of Finance",
+          "language": "en",
+          "access-date": "2020-03-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://newsin.asia/maldives-finance-minister-says-chinese-projects-have-been-at-inflated-prices/ibrahim-ameer-maldivian-finance-minister/",
+          "title": "Ibrahim Ameer, Maldivian Finance Minister",
+          "website": "NewsIn.Asia",
+          "language": "en-US",
+          "access-date": "2020-03-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thebanker.com/World/Asia-Pacific/Maldives/Maldives-finance-minister-looks-to-lessen-Chinese-influence?ct=true",
+          "title": "Maldives finance minister looks to lessen Chinese influence -",
+          "website": "www.thebanker.com",
+          "access-date": "2020-03-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "date": "March 2020",
+          "template": "improve categories"
+        },
+        {
+          "template": "maldives-politician-stub"
+        }
+      ]
+    }
+  ]
+}
