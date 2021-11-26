@@ -1,1 +1,3 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q55614252,Ibrahim Mohamed Solih,Ibrahim Mohamed Solih,male,1964-05-04,11,,,Q1064606,President of the Maldives,Q55614252-841371a6-4e27-cb54-7d4c-1f4bd18cab0c
+Q56752471,Faisal Naseem,Faisal Naseem,male,1973-07-20,11,,,Q10999435,Vice President of the Maldives,Q56752471-3cd635cb-43ec-5478-3dd0-660850a9bdb9
