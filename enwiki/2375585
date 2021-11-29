@@ -188,6 +188,15 @@
                   "page": "United States Department of State"
                 }
               ]
+            },
+            {
+              "text": "In November 2018, the Supreme Court of the Maldives overturned his conviction.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of the Maldives"
+                }
+              ]
             }
           ]
         },
@@ -656,6 +665,20 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last1": "Junayd",
+          "first1": "Mohamed",
+          "date": "26 November 2018",
+          "title": "Maldives' top court cancels jail sentence of former president",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-maldives-politics-nasheed/maldives-top-court-cancels-jail-sentence-of-former-president-idUSKCN1NV1MB?il=0",
+          "url-status": "live",
+          "access-date": "26 November 2018",
+          "archive-url": "https://web.archive.org/web/20181127022450/https://www.reuters.com/article/us-maldives-politics-nasheed/maldives-top-court-cancels-jail-sentence-of-former-president-idUSKCN1NV1MB?il=0",
+          "archive-date": "27 November 2018",
+          "template": "citation",
+          "type": "news"
         },
         {
           "title": "Mohamed Nasheed: Former Maldives president 'given UK asylum'",
@@ -2516,6 +2539,9 @@
                   "page": "Supreme Court of the Maldives"
                 }
               ]
+            },
+            {
+              "text": "It had previously upheld the conviction in 2016, during the Yameen administration."
             }
           ]
         }
@@ -2752,18 +2778,16 @@
           "type": "news"
         },
         {
-          "last1": "Junayd",
-          "first1": "Mohamed",
-          "title": "Maldives' top court cancels jail sentence of former president",
-          "url": "https://www.reuters.com/article/us-maldives-politics-nasheed/maldives-top-court-cancels-jail-sentence-of-former-president-idUSKCN1NV1MB?il=0",
-          "access-date": "26 November 2018",
-          "work": "Reuters",
-          "date": "26 November 2018",
-          "archive-date": "27 November 2018",
-          "archive-url": "https://web.archive.org/web/20181127022450/https://www.reuters.com/article/us-maldives-politics-nasheed/maldives-top-court-cancels-jail-sentence-of-former-president-idUSKCN1NV1MB?il=0",
-          "url-status": "live",
+          "last": "Malé",
+          "first": "Agence France-Presse in",
+          "date": "2016-06-27",
+          "title": "Maldives court upholds jail sentence against former president",
+          "url": "http://www.theguardian.com/world/2016/jun/27/maldives-court-upholds-jail-sentence-former-president-nasheed",
+          "access-date": "2021-11-28",
+          "website": "the Guardian",
+          "language": "en",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.bbc.co.uk/news/world-asia-17135582",
