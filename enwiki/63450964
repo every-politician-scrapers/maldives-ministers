@@ -136,22 +136,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "date": "March 2020",
-          "template": "improve categories"
-        },
-        {
-          "template": "maldives-politician-stub"
-        }
-      ]
     }
   ]
 }

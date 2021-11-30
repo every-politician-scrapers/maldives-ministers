@@ -197,40 +197,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "First women lawyers around the world",
-            "links": [
-              {
-                "type": "internal",
-                "page": "First women lawyers around the world"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "international women of courage awards"
-        }
-      ]
     }
   ]
 }
