@@ -66,7 +66,7 @@
               ]
             },
             {
-              "text": "Shamaal was previously discharged from service in November 2013 but was reinstated on December 2018 following High Court verdict that his discharge was unlawful."
+              "text": "Shamaal was previously discharged from service in November 2013 but was reinstated in December 2018 following High Court verdict that his discharge was unlawful."
             },
             {
               "text": "He has also held various Senior Command, Staff and Instructional appointments during his career."
@@ -76,8 +76,20 @@
       ],
       "templates": [
         {
+          "description": "Maldives brigadier general (born 1969)",
+          "template": "short description"
+        },
+        {
           "date": "December 2018",
           "template": "blp sources"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1969,
+            "month": 7,
+            "date": 5
+          }
         }
       ],
       "infoboxes": [
@@ -88,19 +100,18 @@
           "image": {
             "text": "Major General Abdulla Shamaal.jpg"
           },
-          "imagesize": {
-            "text": "210px"
+          "image_size": {
+            "text": "220px"
           },
           "birth_date": {
             "text": "5 July 1969"
           },
           "allegiance": {
-            "text": "🇲🇻 Maldives",
+            "text": "Maldives",
             "links": [
               {
-                "text": "Maldives",
                 "type": "internal",
-                "page": "maldives"
+                "page": "Maldives"
               }
             ]
           },
