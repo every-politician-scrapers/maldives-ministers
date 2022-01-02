@@ -335,60 +335,6 @@
             "text": "Maldives"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://sun.mv/english/11661",
-          "title": "Speaker Shahid joins MDP",
-          "work": "Sun Online",
-          "date": "April 18, 2013",
-          "accessdate": "April 18, 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://presidency.gov.mv/theCabinet",
-          "title": "The President's Office",
-          "website": "presidency.gov.mv",
-          "access-date": "2019-01-01",
-          "archive-url": "https://web.archive.org/web/20190102050607/https://presidency.gov.mv/theCabinet",
-          "archive-date": "2019-01-02",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.un.org/pga/75/wp-content/uploads/sites/100/2021/04/FM-Shahid-Bio-Note-Final-1.pdf",
-          "title": "Honourable Abdulla Shahid",
-          "website": "un.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.majlis.gov.mv/di/kuryge_raeesun",
-          "title": "Kuryge raeesun",
-          "date": "6 January 2019",
-          "publisher": "Majlis",
-          "language": "dv",
-          "access-date": "6 January 2019",
-          "archive-url": "https://web.archive.org/web/20190106204240/http://www.majlis.gov.mv/di/kuryge_raeesun",
-          "archive-date": "6 January 2019",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://haveeru.com.mv/news/48535",
-          "title": "Speaker Shahid ends speculation, announces MDP switch",
-          "work": "Haveeru Online",
-          "date": "April 18, 2013",
-          "accessdate": "April 18, 2013",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20130421093352/http://www.haveeru.com.mv/news/48535",
-          "archivedate": "April 21, 2013",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
