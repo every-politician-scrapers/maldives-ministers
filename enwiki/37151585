@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Abdulla Shahid (ޢަބްދުﷲ ޝާހިދު; born 26 May 1962) is a Maldivian politician who has served as the Minister of Foreign Affairs for the Maldives since 2018.",
+              "text": "Abdulla Shahid (ޢަބްދުﷲ ޝާހިދު; born 26 May 1962) is a Maldivian politician who has served as the Minister of Foreign Affairs for Maldives since 2018.",
               "links": [
                 {
                   "text": "Maldivian",
@@ -71,8 +71,9 @@
             "text": "His Excellency",
             "links": [
               {
+                "text": "His Excellency",
                 "type": "internal",
-                "page": "His Excellency"
+                "page": "Excellency"
               }
             ]
           },
