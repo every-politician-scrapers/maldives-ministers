@@ -60,6 +60,10 @@
       ],
       "templates": [
         {
+          "description": "Vice President of the Maldives since 2018",
+          "template": "short description"
+        },
+        {
           "date": "September 2018",
           "template": "use dmy dates"
         },
