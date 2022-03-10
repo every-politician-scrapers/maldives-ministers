@@ -1,164 +1,19 @@
 {
-  "title": "Aishath Nahula",
-  "pageID": 58741493,
-  "categories": [
-    "Female foreign ministers",
-    "Maldivian women diplomats",
-    "Maldivian politicians",
-    "Living people",
-    "21st-century women politicians",
-    "21st-century Maldivian women",
-    "20th-century Maldivian women",
-    "1982 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aishath Nahula (sometimes known by Aisha; born 12 March 1982) is a Maldivian politician and public figure.",
-              "formatting": {
-                "bold": [
-                  "Aishath Nahula",
-                  "Aisha"
-                ]
-              }
-            },
-            {
-              "text": "She is currently the Minister of Transport and Civil Aviation of Maldives, and a national council member of the Jumhooree Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jumhooree Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2020",
-          "template": "upe"
-        },
-        {
-          "description": "Maldivian politician (b. 1981)",
-          "template": "short description"
-        },
-        {
-          "year": "1982",
-          "month": "3",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aishath Nahula"
-          },
-          "native_name": {
-            "text": "އައިޝަތު ނަހުލާ"
-          },
-          "image": {
-            "text": "Aishath Nahula - 2019 (49164324876) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Nahula in 2019"
-          },
-          "office": {
-            "text": "Minister of Transport and Civil Aviation"
-          },
-          "president": {
-            "text": "Ibrahim Mohamed Solih",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibrahim Mohamed Solih"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "17 November 2018"
-          },
-          "predecessor": {
-            "text": "Ameen Ibrahim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ameen Ibrahim"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Council Member of the Jumhooree Party",
-            "links": [
-              {
-                "text": "Council Member of the Jumhooree Party",
-                "type": "internal",
-                "page": "Jumhooree Party"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "24 August 2018"
-          },
-          "birth_name": {
-            "text": "Aishath Nahula"
-          },
-          "birth_date": {
-            "text": "March 12, 1982"
-          },
-          "birth_place": {
-            "text": "Malé, Maldives",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malé"
-              },
-              {
-                "type": "internal",
-                "page": "Maldives"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Qasim Ibrahim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Qasim Ibrahim"
-              }
-            ]
-          },
-          "children": {
-            "text": "6",
-            "number": 6
-          },
-          "party": {
-            "text": "Jumhooree Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jumhooree Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Villa College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Villa College"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aishath Nahula",
+  "native_name": "އައިޝަތު ނަހުލާ",
+  "image": "Aishath Nahula - 2019 (49164324876) (cropped).jpg",
+  "caption": "Nahula in 2019",
+  "office": "Minister of Transport and Civil Aviation",
+  "president": "Ibrahim Mohamed Solih",
+  "term_start": "17 November 2018",
+  "predecessor": "Ameen Ibrahim",
+  "office2": "Council Member of the Jumhooree Party",
+  "term_start2": "24 August 2018",
+  "birth_name": "Aishath Nahula",
+  "birth_date": "March 12, 1982",
+  "birth_place": "Malé, Maldives",
+  "spouse": "Qasim Ibrahim",
+  "children": "6",
+  "party": "Jumhooree Party",
+  "alma_mater": "Villa College"
 }
