@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Maldives",
+      "id": "Q826"
+    },
+    "cabinet": {
+      "id": "Q72372766",
+      "start": "2018-11-18",
+      "parent": "Q5015583"
+    },
+    "source": {
+        "url":   "https://presidency.gov.mv/Government/Cabinet/16",
+        "title": "The Cabinet - The President's Office",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/maldives-ministers"
+}
