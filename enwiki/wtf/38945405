@@ -1,0 +1,92 @@
+{
+  "title": "Ahmed Zahir",
+  "pageID": 38945405,
+  "categories": [
+    "Government ministers of the Maldives",
+    "Living people",
+    "Speakers of the People's Majlis",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ahmed Zahir, commonly known as Seena Zahir is a Maldivian politician.",
+              "formatting": {
+                "bold": [
+                  "Ahmed Zahir",
+                  "Seena Zahir"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Minister of Justice and as the Speaker of the People's Majlis, during the reign of President Maumoon Abdul Gayoom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Majlis"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the Maldives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maumoon Abdul Gayoom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as the speaker of People's Majlis from 2004 to 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Majlis"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.majlis.gov.mv/di/kuryge_raeesun",
+          "title": "Kuryge raeesun",
+          "date": "6 January 2019",
+          "publisher": "Majlis",
+          "language": "dv",
+          "access-date": "6 January 2019",
+          "archive-url": "https://web.archive.org/web/20190106204240/http://www.majlis.gov.mv/di/kuryge_raeesun",
+          "archive-date": "6 January 2019",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
