@@ -312,13 +312,20 @@
               "text": "Nasheed had arranged for emergency diplomatic clearance for the Sri Lanka Air Force flight carrying beleaguered Rajapaksa, his wife and two bodyguards."
             },
             {
-              "text": "Rajapaksa was due to step down that day after months of public protests."
+              "text": "Rajapaksa was due to step down that day after months of public protests.",
+              "links": [
+                {
+                  "text": "public protests",
+                  "type": "internal",
+                  "page": "2022 Sri Lankan protests"
+                }
+              ]
             },
             {
               "text": "The intervention by Nasheed was met with stern criticism from the Sri Lankan public."
             },
             {
-              "text": "Maldivians and Sri Lankan expatriates in Male protested outside President Ibrahim Mohamed Solih's house demanding that Rajapaksa be sent back to Sri Lanka.",
+              "text": "Maldivians and Sri Lankan expatriates in Malé protested outside President Ibrahim Mohamed Solih's house demanding that Rajapaksa be sent back to Sri Lanka.",
               "links": [
                 {
                   "type": "internal",
@@ -901,7 +908,7 @@
         {
           "sentences": [
             {
-              "text": "He was later alleged by the government, to have withheld information about a bombing plot."
+              "text": "He was later alleged by the government to have withheld information about a bombing plot."
             },
             {
               "text": "On 8 April 1992, he was sentenced to three years in prison on that charge."
