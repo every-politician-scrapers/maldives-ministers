@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Jumhooree Party"
+      ],
+      "stated_as": "Council Member of the Jumhooree Party"
+    },
+    "P580": "2018-08-24"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Transport and Civil Aviation"
+    },
+    "P580": "2018-11-17",
+    "P1365": {
+      "links": [
+        "Ameen Ibrahim"
+      ],
+      "stated_as": "Ameen Ibrahim"
+    }
+  }
+]

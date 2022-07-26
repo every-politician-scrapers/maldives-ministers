@@ -1,12 +1,12 @@
-pageid,title
-2375585,Mohamed Nasheed
-16223943,Abdulla Shamaal
-37151585,Abdulla Shahid
-38945405,Ahmed Zahir
-38957690,Ahmed Mahloof
-43548909,Mariya Ahmed Didi
-57913666,Ibrahim Mohamed Solih
-58576861,Faisal Naseem
-58741493,Aishath Nahula
-58860358,Shauna Aminath
-63450964,Ibrahim Ameer
+pageid,title,wikidata,label
+2375585,Mohamed Nasheed,Q152381,Mohamed Nasheed
+16223943,Abdulla Shamaal,Q4665894,Abdulla Shamaal
+37151585,Abdulla Shahid,Q4665893,Abdulla Shahid
+38945405,Ahmed Zahir,Q16156922,Ahmed Zahir
+38957690,Ahmed Mahloof,Q16146747,Ahmed Mahloof
+43548909,Mariya Ahmed Didi,Q17517052,Mariya Ahmed Didi
+57913666,Ibrahim Mohamed Solih,Q55614252,Ibrahim Mohamed Solih
+58576861,Faisal Naseem,Q56752471,Faisal Naseem
+58741493,Aishath Nahula,Q57313656,Aishath Nahula
+58860358,Shauna Aminath,Q59660221,Shauna Aminath
+63450964,Ibrahim Ameer,Q89875889,Ibrahim Ameer

@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "People’s Majlis",
+        "Kaashidhoo (Kaafu Atoll)"
+      ],
+      "stated_as": "Member of Parliament for Kaashidhoo constituency"
+    },
+    "P580": "2014-05-28",
+    "P1365": {
+      "links": [
+        "Abdulla Jabir"
+      ],
+      "stated_as": "Abdulla Jabir"
+    },
+    "P582": "2018-11-16",
+    "P1366": {
+      "links": [
+        "Abdulla Jabir"
+      ],
+      "stated_as": "Abdulla Jabir (elect)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of the Maldives"
+      ],
+      "stated_as": "Vice President of the Maldives"
+    },
+    "P580": "2018-11-17",
+    "P1365": {
+      "links": [
+        "Abdulla Jihad"
+      ],
+      "stated_as": "Abdulla Jihad"
+    }
+  }
+]

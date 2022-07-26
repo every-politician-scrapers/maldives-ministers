@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "President of the Maldives"
+      ],
+      "stated_as": "President of the Maldives"
+    },
+    "P580": "2008-11-11",
+    "P1365": {
+      "links": [
+        "Maumoon Abdul Gayoom"
+      ],
+      "stated_as": "Maumoon Abdul Gayoom"
+    },
+    "P582": "2012-02-07",
+    "P1366": {
+      "links": [
+        "Mohammed Waheed Hassan"
+      ],
+      "stated_as": "Mohammed Waheed Hassan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Maldivian Democratic Party"
+      ],
+      "stated_as": "President of the Maldivian Democratic Party"
+    },
+    "P580": "2014-08-30",
+    "P1365": {
+      "links": [
+        "Ibrahim Didi"
+      ],
+      "stated_as": "Ibrahim Didi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Majlis"
+      ],
+      "stated_as": "Member of the People's Majlis"
+    },
+    "P580": "2019-05-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Majlis"
+      ],
+      "stated_as": "19th Speaker of the People's Majlis"
+    },
+    "P580": "2019-05-29",
+    "P1365": {
+      "links": [
+        "Qasim Ibrahim"
+      ],
+      "stated_as": "Qasim Ibrahim"
+    }
+  }
+]
