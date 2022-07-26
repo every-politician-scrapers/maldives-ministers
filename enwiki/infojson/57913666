@@ -1,0 +1,57 @@
+[
+  {
+    "office": {
+      "links": [
+        "People's Majlis",
+        "Lhaviyani Atoll"
+      ],
+      "stated_as": "Member of Parliament for Lhaviyani Atoll"
+    },
+    "P580": "1994",
+    "P582": "2009-05-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Majlis",
+        "Hinnavaru"
+      ],
+      "stated_as": "Member of Parliament for Hinnavaru"
+    },
+    "P580": "2009-05-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency created"
+    },
+    "P582": "2018-11-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jeehan Mahmood"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Maldives"
+      ],
+      "stated_as": "President of the Maldives"
+    },
+    "P580": "2018-11-17",
+    "P1365": {
+      "links": [
+        "Abdulla Yameen"
+      ],
+      "stated_as": "Abdulla Yameen"
+    }
+  }
+]

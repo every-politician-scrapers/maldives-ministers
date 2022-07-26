@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament for Galolhu-South constituency"
+    },
+    "P580": "2009-05-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office established"
+    },
+    "P582": "2018-11-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mickail Naseem"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry of Youth, \nSports, and Community Empowerment"
+    },
+    "P580": "2018-11-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamed Maleeh Jamal"
+    }
+  }
+]
